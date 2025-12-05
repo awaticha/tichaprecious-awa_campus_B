@@ -31,7 +31,7 @@ repository of my vs code
    ```javascript
        console.log ('hello')
    ```
-   this code was created by[yvesdylane](http://example.com)
+   this code was created by  [yvesdylane](http://example.com)
    
    
 
