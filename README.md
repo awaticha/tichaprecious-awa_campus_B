@@ -1,3 +1,4 @@
+
 # tichaprecious-awa_campus_B
 #heading 1  
 ##heading 2   
@@ -16,5 +17,13 @@ repository of my vs code
 3. item 3
 -  item 1    
 -  sub item  
-   `<h1>`  we use to code  
+   `<h1>`  we use to code
+   ```cmd
+       git clone <URL>
+   ```
+
+   ```javascript
+       console.log ('hello')
+   ```
+   
 
