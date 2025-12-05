@@ -10,6 +10,6 @@ repository of my vs code
 **how are you **italic**  
 **how are u bold**  
 **how are u in bold+italic**  
-<itali<
+<<itali<<
 
 
