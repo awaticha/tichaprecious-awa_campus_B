@@ -7,6 +7,7 @@
 ######heading 6  
 repository of my vs code
 #
-**how are you italic**
-**how are u bold**
-**how are u in bold+italic**
+**how are you italic**  
+**how are u bold**  
+**how are u in bold+italic**  
+
